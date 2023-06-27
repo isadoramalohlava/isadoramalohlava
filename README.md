@@ -1,4 +1,8 @@
+![image](https://github.com/isadoramalohlava/isadoramalohlava/assets/109180228/10a24f2c-88c6-42c2-8bd7-7ee03a61ca80)
+
 <h1 align="center"> Isadora Malohlava </h1>
+
+<h3>Starting the dev life</h3>
 
 <!--
 **isadoramalohlava/isadoramalohlava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
