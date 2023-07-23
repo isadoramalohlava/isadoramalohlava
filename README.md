@@ -2,7 +2,9 @@
 
 
 
-<h1 align="center"> Isadora Malohlava </h1>
+<h1 align="center"> Hi, I'm Isadora Malohlava </h1>
+<h2>⚙ Techs used: JavaScript, React </h2>
+<h2>📫 How to reach me: https://www.linkedin.com/in/isadora-malohlava/ </h2>
 
 <h3>Starting the dev life</h3>
 
