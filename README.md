@@ -1,4 +1,4 @@
-![image](https://github.com/isadoramalohlava/isadoramalohlava/assets/109180228/b153fc8a-4d16-4030-b05e-b99dc128a4b0)
+![image](https://github.com/isadoramalohlava/isadoramalohlava/assets/109180228/bd6f087f-b779-44ae-9530-cc5ed744cbd0)
 
 
 <h1 align="center"> Hi, I'm Isadora Malohlava </h1>
