@@ -1,4 +1,4 @@
-![image](https://github.com/isadoramalohlava/isadoramalohlava/assets/109180228/f10a6646-a39b-478d-bd3c-82d63809dd04)
+![image](https://github.com/isadoramalohlava/isadoramalohlava/assets/109180228/7ae966fa-4f12-4891-9df0-07576719c4b8)
 
 
 
